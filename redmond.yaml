@@ -1,0 +1,18 @@
+scheme: "Redmond"
+author: "Michael Mims (https://github.com/mmims)"
+base00: "0c0c0c" # default background
+base01: "767676" # lighter background (status bar)
+base02: "13a10e" # selection background
+base03: "c19c00" # comments, invisibles
+base04: "0037da" # dark foreground (status bar)
+base05: "3a96dd" # default foreground
+base06: "cccccc" # light foreground
+base07: "f2f2f2" # light background
+base08: "e74856" # variables
+base09: "c50f1f" # constants
+base0A: "f9f1a5" # search text background
+base0B: "16c60c" # strings
+base0C: "61d6d6" # regex, escaped chars
+base0D: "3b78ff" # functions
+base0E: "b4009e" # keywords
+base0F: "881798" # deprecations
